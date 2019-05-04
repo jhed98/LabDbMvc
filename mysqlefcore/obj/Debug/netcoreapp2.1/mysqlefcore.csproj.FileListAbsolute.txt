@@ -1,0 +1,11 @@
+C:\Users\Clase\Desktop\Nueva carpeta (2)\LabDbMvc\mysqlefcore\bin\Debug\netcoreapp2.1\mysqlefcore.deps.json
+C:\Users\Clase\Desktop\Nueva carpeta (2)\LabDbMvc\mysqlefcore\bin\Debug\netcoreapp2.1\mysqlefcore.runtimeconfig.json
+C:\Users\Clase\Desktop\Nueva carpeta (2)\LabDbMvc\mysqlefcore\bin\Debug\netcoreapp2.1\mysqlefcore.runtimeconfig.dev.json
+C:\Users\Clase\Desktop\Nueva carpeta (2)\LabDbMvc\mysqlefcore\bin\Debug\netcoreapp2.1\mysqlefcore.dll
+C:\Users\Clase\Desktop\Nueva carpeta (2)\LabDbMvc\mysqlefcore\bin\Debug\netcoreapp2.1\mysqlefcore.pdb
+C:\Users\Clase\Desktop\Nueva carpeta (2)\LabDbMvc\mysqlefcore\obj\Debug\netcoreapp2.1\mysqlefcore.csprojAssemblyReference.cache
+C:\Users\Clase\Desktop\Nueva carpeta (2)\LabDbMvc\mysqlefcore\obj\Debug\netcoreapp2.1\mysqlefcore.csproj.CoreCompileInputs.cache
+C:\Users\Clase\Desktop\Nueva carpeta (2)\LabDbMvc\mysqlefcore\obj\Debug\netcoreapp2.1\mysqlefcore.AssemblyInfoInputs.cache
+C:\Users\Clase\Desktop\Nueva carpeta (2)\LabDbMvc\mysqlefcore\obj\Debug\netcoreapp2.1\mysqlefcore.AssemblyInfo.cs
+C:\Users\Clase\Desktop\Nueva carpeta (2)\LabDbMvc\mysqlefcore\obj\Debug\netcoreapp2.1\mysqlefcore.dll
+C:\Users\Clase\Desktop\Nueva carpeta (2)\LabDbMvc\mysqlefcore\obj\Debug\netcoreapp2.1\mysqlefcore.pdb

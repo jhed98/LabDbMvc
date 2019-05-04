@@ -8,8 +8,8 @@ namespace mysqlefcore
   {
     static void Main(string[] args)
     {
-      //InsertData();
-      //PrintData();
+      InsertData();
+      ////PrintData();
       InsertDataOtro();
       PrintDataOtro();
     }
